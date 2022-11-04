@@ -1,0 +1,10 @@
+.navv{
+    color:black;
+    font-family: cursive;
+    font-size: 150%;
+    
+}
+.navv:hover{
+    color: white;
+    font-size: 155%;
+}
